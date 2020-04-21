@@ -30,7 +30,11 @@ function iLoveTheBeatles(num){
     beatlemania.push("I love the Beatles!");
     ++num;
     
+<<<<<<< HEAD
   } while (num < 15);
+=======
+  } while (num > 15);
+>>>>>>> fa054356be1923b0d0456f2f3678f96cbcf8908d
     
  return beatlemania;
 }
